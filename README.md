@@ -1,7 +1,8 @@
 # BankLoanData
-SQL &amp; Powerbi Bank Loan Data Analysis
 
-<img src="https://raw.githubusercontent.com/HarshMehr34/HarshMehr34/output/snake.svg" alt="Snake animation" />
+ ![Powerbi Bank Loan Data Analysis]
+
+
 
 ###
 
