@@ -1,8 +1,8 @@
 # BankLoanData
 
- ![Powerbi Bank Loan Data Analysis]
+ ![Powerbi Bank Loan Data Analysis](https://github.com/HarshMehr34/BankLoanData/blob/9ed7aa73679bd03896a23e1ea523fd1270814bc8/BankLoanDashboard.png)
 
-
+🛂
 
 ###
 
