@@ -7,9 +7,9 @@ Applied combination of SQL Language, Powerbi DAX query and Dashboarding Tools to
 interesting Bank Loan data.
 
 # Keys of Project
-✅ Imported Data from SQL Server.
-✅ KPIs to track performance trends & to verify our dashboard findings
-✅ Dynamic filters and slicers for custom views
+<br>✅ Imported Data from SQL Server.<br>
+✅ KPIs to track performance trends & to verify our dashboard findings<br>
+✅ Dynamic filters and slicers for custom views<br>
 ✅ Clean Charts to see the trends over different categories and values
 
 
@@ -34,8 +34,8 @@ interesting Bank Loan data.
 # Skills Applied:<br>
 🔹 Power BI – Data modeling, DAX formulas, and visuals<br> 
 🔹 Power Query – Data transformation & preparation<br> 
-🔹 DAX - meaningful and dynamic measures 
-🔹 SQL language - to extract KPIs for the Data
+🔹 DAX - meaningful and dynamic measures <br>
+🔹 SQL language - to extract KPIs for the Data<br>
 
  😁 <br><br>Would love to have your feedbacks!!
 
